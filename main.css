@@ -3597,7 +3597,7 @@ img {
 }
 
 .container-popup-one {
-    position: fixed;
+    position: absolute;
     display: none;
     flex-wrap: wrap;
     flex-direction: row;
