@@ -1573,10 +1573,6 @@ img {
     padding: 5px;
 }
 
-
-
-
-
 .container-8 {
     display: flex;
     flex-wrap: wrap;
@@ -1817,6 +1813,9 @@ img {
     border: px solid #fff;
 }
 
+container-9_blocks_1_info_button > div > a {
+    text-decoration: none;
+}
 
 .cardButton {
     max-height: 0;
