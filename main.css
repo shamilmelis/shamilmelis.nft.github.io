@@ -98,7 +98,7 @@ body {
 
 
 .container-mobilemenu__blocks__prependChild > div {
-    margin: 15px;
+    margin: 20px;
     width: 100%;
     height: auto;
     border: px solid #fff;
@@ -125,6 +125,7 @@ body {
     font-weight: 500;
     color: #fff;
     text-decoration: none;
+    
 }
 
 
