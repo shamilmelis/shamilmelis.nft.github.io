@@ -31,7 +31,6 @@ body {
     #container-mobilemenu {
         position: fixed;
         top: 70px;
-        border-top: 1px solid #fff;
     }
     #container-2 {
         margin-top: 100px;
