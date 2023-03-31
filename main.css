@@ -74,7 +74,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: center;
     border: px solid #fff;
 }
 
@@ -92,7 +92,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: center;
     border: px solid #fff;
 }
 
@@ -102,6 +102,7 @@ body {
     width: 100%;
     height: auto;
     border: px solid #fff;
+    text-align: left;
 }
 
 .mobile__getintouch__button {
