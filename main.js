@@ -31,18 +31,6 @@ play_button.addEventListener('click', function() {
 
 
 
-let bars = document.querySelectorAll('.bar');
-let navToggle = document.querySelector('.nav-toggle');
-
-function toggleHamburger(e) {
-    bars.forEach(bar => bar.classList.toggle('x'))
-  }
-  
-  navToggle.addEventListener('click', toggleHamburger)
-
-
-
-
 const oneDayButton = document.getElementById('oneDay_button');
 oneDayButton.addEventListener('click', function() {
     oneDayButton.classList.toggle('oneDay_buttonActive')
